@@ -1,0 +1,44 @@
+# build artifacts
+bin/
+obj/
+
+# user-specific files
+*.user
+*.suo
+*.prefs
+*.csproj.user
+
+# nuget packages
+packages/
+*.nupkg
+*.snupkg
+
+# Visual Studio files
+*.vs/
+*.sln
+*.slnf
+*.userprefs
+*.vssscc
+*.vspscc
+
+# build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Resharper files
+_ReSharper.*/
+
+# Rider files
+.idea/
+*.ide*
+
+# Mac-specific
+*.DS_Store
